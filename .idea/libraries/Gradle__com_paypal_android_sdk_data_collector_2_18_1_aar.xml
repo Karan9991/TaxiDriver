@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paypal.android.sdk:data-collector:2.18.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/8b973b0ab9ec6ba35349e9df6c102306/jetified-data-collector-2.18.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/8b973b0ab9ec6ba35349e9df6c102306/jetified-data-collector-2.18.1/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/8b973b0ab9ec6ba35349e9df6c102306/jetified-data-collector-2.18.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/8b973b0ab9ec6ba35349e9df6c102306/jetified-data-collector-2.18.1/jars/libs/paypal-data-collector-4.0.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/53efae667c3fedadf68d247ccad83e3c/jetified-data-collector-2.18.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/53efae667c3fedadf68d247ccad83e3c/jetified-data-collector-2.18.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/53efae667c3fedadf68d247ccad83e3c/jetified-data-collector-2.18.1/jars/libs/paypal-data-collector-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/53efae667c3fedadf68d247ccad83e3c/jetified-data-collector-2.18.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bcbbad2b4914dc317302be8561fc7ea5/jetified-data-collector-2.18.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bcbbad2b4914dc317302be8561fc7ea5/jetified-data-collector-2.18.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bcbbad2b4914dc317302be8561fc7ea5/jetified-data-collector-2.18.1/jars/libs/paypal-data-collector-4.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bcbbad2b4914dc317302be8561fc7ea5/jetified-data-collector-2.18.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.18.1/dd92b9f58eed594f38a087167cf1a31fb76e1484/data-collector-2.18.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.18.1/dd92b9f58eed594f38a087167cf1a31fb76e1484/data-collector-2.18.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.18.1/906bbde76669bb8d90c7ced3506ebe27b87aeced/data-collector-2.18.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.18.1/906bbde76669bb8d90c7ced3506ebe27b87aeced/data-collector-2.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

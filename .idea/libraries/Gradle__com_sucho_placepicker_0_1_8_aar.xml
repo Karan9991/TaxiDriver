@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sucho:placepicker:0.1.8@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f09d6f550778025d1e60f269c26320e/placepicker-0.1.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.sucho/placepicker/0.1.8/e1afe214c769268e97e2024a0285b3229b0f363a/placepicker-0.1.8-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sucho/placepicker/0.1.8/e1afe214c769268e97e2024a0285b3229b0f363a/placepicker-0.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.sucho/placepicker/0.1.8/d9426dce44eb911c9cda36441f1e655412766114/placepicker-0.1.8-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sucho/placepicker/0.1.8/d9426dce44eb911c9cda36441f1e655412766114/placepicker-0.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

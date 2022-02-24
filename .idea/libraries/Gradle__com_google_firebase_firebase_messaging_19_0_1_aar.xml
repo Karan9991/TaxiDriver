@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging:19.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/891d900f7045d0d5b4cd592c0a047bfb/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/891d900f7045d0d5b4cd592c0a047bfb/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/891d900f7045d0d5b4cd592c0a047bfb/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/5df2bf49eb50712fb3e92faceb9a110b/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/5df2bf49eb50712fb3e92faceb9a110b/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/5df2bf49eb50712fb3e92faceb9a110b/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e61e452b2f8a97e33401b279ecdb33df/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e61e452b2f8a97e33401b279ecdb33df/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e61e452b2f8a97e33401b279ecdb33df/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-messaging/19.0.1/f8d4d491c1e3f58e8f4e5ca0acd2c4a5a68cd15e/firebase-messaging-19.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-messaging/19.0.1/f8d4d491c1e3f58e8f4e5ca0acd2c4a5a68cd15e/firebase-messaging-19.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

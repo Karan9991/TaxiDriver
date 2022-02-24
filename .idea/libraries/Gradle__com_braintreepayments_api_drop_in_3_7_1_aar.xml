@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:drop-in:3.7.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/6c9cf7cd5874a99554c2661f41a019dc/jetified-drop-in-3.7.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/51cb25e4a1e9d5702c8d34f24654ed5c/jetified-drop-in-3.7.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0f3b6ba328fee9326f57a3c4e42a0db/jetified-drop-in-3.7.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/6c9cf7cd5874a99554c2661f41a019dc/jetified-drop-in-3.7.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/6c9cf7cd5874a99554c2661f41a019dc/jetified-drop-in-3.7.1/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/6c9cf7cd5874a99554c2661f41a019dc/jetified-drop-in-3.7.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/51cb25e4a1e9d5702c8d34f24654ed5c/jetified-drop-in-3.7.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/51cb25e4a1e9d5702c8d34f24654ed5c/jetified-drop-in-3.7.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/51cb25e4a1e9d5702c8d34f24654ed5c/jetified-drop-in-3.7.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0f3b6ba328fee9326f57a3c4e42a0db/jetified-drop-in-3.7.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0f3b6ba328fee9326f57a3c4e42a0db/jetified-drop-in-3.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0f3b6ba328fee9326f57a3c4e42a0db/jetified-drop-in-3.7.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.7.1/7cb198c4a0c18bb638a110db3d6f4e98a6b94e2e/drop-in-3.7.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.7.1/7cb198c4a0c18bb638a110db3d6f4e98a6b94e2e/drop-in-3.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.7.1/95651400cfd151ab1131998d9e0fcf34002c2789/drop-in-3.7.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.7.1/95651400cfd151ab1131998d9e0fcf34002c2789/drop-in-3.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

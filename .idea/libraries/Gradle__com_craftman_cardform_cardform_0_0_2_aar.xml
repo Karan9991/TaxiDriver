@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.craftman.cardform:cardform:0.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/841a73e4ee652024020df4d6b659c9fe/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/0ea16d4ce785f8fbbee4ecc563ac1a23/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfa36363105902b1234b986cfaac68cc/jetified-cardform-0.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/841a73e4ee652024020df4d6b659c9fe/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/841a73e4ee652024020df4d6b659c9fe/jetified-cardform-0.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/841a73e4ee652024020df4d6b659c9fe/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/0ea16d4ce785f8fbbee4ecc563ac1a23/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/0ea16d4ce785f8fbbee4ecc563ac1a23/jetified-cardform-0.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/0ea16d4ce785f8fbbee4ecc563ac1a23/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfa36363105902b1234b986cfaac68cc/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfa36363105902b1234b986cfaac68cc/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfa36363105902b1234b986cfaac68cc/jetified-cardform-0.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/2dd2dc6285196a1ae3cd630283cefdac44357acc/cardform-0.0.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/2dd2dc6285196a1ae3cd630283cefdac44357acc/cardform-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/9d2f8e685a18b1668b63e59dc7d0249ad858d739/cardform-0.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/9d2f8e685a18b1668b63e59dc7d0249ad858d739/cardform-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

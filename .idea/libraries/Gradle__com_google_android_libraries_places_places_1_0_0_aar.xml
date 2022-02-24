@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.libraries.places:places:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/d487a062d9df15bd78b51e0a712ca6d6/jetified-places-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/d487a062d9df15bd78b51e0a712ca6d6/jetified-places-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/d487a062d9df15bd78b51e0a712ca6d6/jetified-places-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/3e6a9c82d6fb79e4615b6cb05d2f4289/jetified-places-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/3e6a9c82d6fb79e4615b6cb05d2f4289/jetified-places-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/3e6a9c82d6fb79e4615b6cb05d2f4289/jetified-places-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5687caeb59bc45a3487f46d3e6c8ab28/jetified-places-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5687caeb59bc45a3487f46d3e6c8ab28/jetified-places-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5687caeb59bc45a3487f46d3e6c8ab28/jetified-places-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

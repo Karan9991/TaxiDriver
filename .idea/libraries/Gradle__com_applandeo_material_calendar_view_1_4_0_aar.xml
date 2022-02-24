@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applandeo:material-calendar-view:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/45932b126bfbb64fd0a0b9da3520497b/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/45932b126bfbb64fd0a0b9da3520497b/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/45932b126bfbb64fd0a0b9da3520497b/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/beefc71977787c5eb9a7477231b73d04/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/beefc71977787c5eb9a7477231b73d04/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../loggenda-master/gradle/caches/transforms-2/files-2.1/beefc71977787c5eb9a7477231b73d04/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eff5413aa9373da34af5809561096532/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eff5413aa9373da34af5809561096532/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eff5413aa9373da34af5809561096532/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/9c73a53e168c1703120337bfe6bd98667e41a7c5/material-calendar-view-1.4.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/9c73a53e168c1703120337bfe6bd98667e41a7c5/material-calendar-view-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../loggenda-master/gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/5e15b2a97a515c8d3a0666a4acc6911c28fb8073/material-calendar-view-1.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/5e15b2a97a515c8d3a0666a4acc6911c28fb8073/material-calendar-view-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
